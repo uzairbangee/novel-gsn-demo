@@ -1,0 +1,18 @@
+# blockchain build generated files
+artifacts
+typechain
+cache
+coverage
+coverage.json
+
+node_modules
+
+.env
+
+# Files storing addresses for collection and paymaster
+paymaster.*.json
+collection.*.json
+
+# The compiles version of our TS files
+soljson**
+typechain**
